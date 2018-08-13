@@ -1,0 +1,9 @@
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.Mwa.Dominio\bin\Debug\netstandard2.0\Simasoft.Mwa.Dominio.deps.json
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.Mwa.Dominio\bin\Debug\netstandard2.0\Simasoft.Mwa.Dominio.dll
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.Mwa.Dominio\bin\Debug\netstandard2.0\Simasoft.Mwa.Dominio.pdb
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.Mwa.Dominio\obj\Debug\netstandard2.0\Simasoft.Mwa.Dominio.csproj.CoreCompileInputs.cache
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.Mwa.Dominio\obj\Debug\netstandard2.0\Simasoft.Mwa.Dominio.AssemblyInfoInputs.cache
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.Mwa.Dominio\obj\Debug\netstandard2.0\Simasoft.Mwa.Dominio.AssemblyInfo.cs
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.Mwa.Dominio\obj\Debug\netstandard2.0\Simasoft.Mwa.Dominio.dll
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.Mwa.Dominio\obj\Debug\netstandard2.0\Simasoft.Mwa.Dominio.pdb
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.Mwa.Dominio\obj\Debug\netstandard2.0\Simasoft.Mwa.Dominio.csprojResolveAssemblyReference.cache
