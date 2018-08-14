@@ -14,8 +14,7 @@ namespace Simasoft.LojaWebModerna.Dominio.Entidades
         public Cliente(
                 string nome,
                 string sobrenome,
-                DateTime dataDeNascimento,
-                string senha,
+                DateTime dataDeNascimento,                
                 string email,
                 Usuario usuario)
         {                       

@@ -1,21 +1,20 @@
 using System;
+using Simasoft.LojaWebModerna.KernelCompartilhado;
 
 namespace Simasoft.LojaWebModerna.Dominio.Entidades 
 {
-    public class Usuario
+    public class Usuario: Entidade
     {
         #region Construtores
-        public Usuario(Guid id, string nomeDeUsuario, string senha)
-        {
-            Id = id;
+        public Usuario(string nomeDeUsuario, string senha)
+        {            
             NomeDeUsuario = nomeDeUsuario;
             Senha = senha;            
         }
         #endregion
 
         #region Propriedades
-
-        public Guid Id { get; private set; }
+        
         public string NomeDeUsuario { get; private set; }
         public string Senha { get; private set; }
         public bool Ativo { get; private set; }
