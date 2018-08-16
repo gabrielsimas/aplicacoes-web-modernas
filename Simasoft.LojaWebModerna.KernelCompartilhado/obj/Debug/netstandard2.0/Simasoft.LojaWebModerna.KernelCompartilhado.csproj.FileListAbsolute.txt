@@ -1,0 +1,17 @@
+e:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Dominio\Simasoft.LojaWebModerna.KernelCompartilhado\obj\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.csproj.CoreCompileInputs.cache
+e:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Dominio\Simasoft.LojaWebModerna.KernelCompartilhado\obj\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.AssemblyInfoInputs.cache
+e:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Dominio\Simasoft.LojaWebModerna.KernelCompartilhado\obj\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.AssemblyInfo.cs
+e:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Dominio\Simasoft.LojaWebModerna.KernelCompartilhado\bin\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.deps.json
+e:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Dominio\Simasoft.LojaWebModerna.KernelCompartilhado\bin\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.dll
+e:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Dominio\Simasoft.LojaWebModerna.KernelCompartilhado\bin\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.pdb
+e:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Dominio\Simasoft.LojaWebModerna.KernelCompartilhado\obj\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.dll
+e:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Dominio\Simasoft.LojaWebModerna.KernelCompartilhado\obj\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.pdb
+e:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.KernelCompartilhado\bin\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.deps.json
+e:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.KernelCompartilhado\bin\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.dll
+e:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.KernelCompartilhado\bin\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.pdb
+e:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.KernelCompartilhado\obj\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.csproj.CoreCompileInputs.cache
+e:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.KernelCompartilhado\obj\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.AssemblyInfoInputs.cache
+e:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.KernelCompartilhado\obj\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.AssemblyInfo.cs
+e:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.KernelCompartilhado\obj\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.dll
+e:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.KernelCompartilhado\obj\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.pdb
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.KernelCompartilhado\obj\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.csprojResolveAssemblyReference.cache
