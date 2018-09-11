@@ -9,7 +9,7 @@ namespace Simasoft.LojaWebModerna.Dominio.Testes
     public class ClienteTeste
     {
 
-        private readonly Usuario _usuario = new Usuario("gabrielsimas","abc,123");
+        /* private readonly Usuario _usuario = new Usuario("gabrielsimas","abc,123");
 
         [TestMethod]
         [TestCategory("Cliente - Novo Cliente")]
@@ -33,6 +33,6 @@ namespace Simasoft.LojaWebModerna.Dominio.Testes
         {
             var cliente = new Cliente("Gabriel","Simas",new DateTime(1982,06,26),"a",_usuario);
             Assert.IsFalse(cliente.Invalid);            
-        }
+        } */
     }
 }

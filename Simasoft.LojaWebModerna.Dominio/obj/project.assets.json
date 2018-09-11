@@ -224,11 +224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio\\Simasoft.LojaWebModerna.Dominio.csproj",
+      "projectUniqueName": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio\\Simasoft.LojaWebModerna.Dominio.csproj",
       "projectName": "Simasoft.LojaWebModerna.Dominio",
-      "projectPath": "e:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio\\Simasoft.LojaWebModerna.Dominio.csproj",
+      "projectPath": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio\\Simasoft.LojaWebModerna.Dominio.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "e:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio\\obj\\",
+      "outputPath": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -247,8 +247,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "e:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.KernelCompartilhado\\Simasoft.LojaWebModerna.KernelCompartilhado.csproj": {
-              "projectPath": "e:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.KernelCompartilhado\\Simasoft.LojaWebModerna.KernelCompartilhado.csproj"
+            "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.KernelCompartilhado\\Simasoft.LojaWebModerna.KernelCompartilhado.csproj": {
+              "projectPath": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.KernelCompartilhado\\Simasoft.LojaWebModerna.KernelCompartilhado.csproj"
             }
           }
         }
