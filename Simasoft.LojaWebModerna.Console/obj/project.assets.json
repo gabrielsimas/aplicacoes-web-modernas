@@ -38,6 +38,19 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "Simasoft.LojaWebModerna.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Simasoft.LojaWebModerna.KernelCompartilhado": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Simasoft.LojaWebModerna.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Simasoft.LojaWebModerna.Dominio.dll": {}
+        }
+      },
       "Simasoft.LojaWebModerna.KernelCompartilhado/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -205,6 +218,11 @@
         "netstandard.library.nuspec"
       ]
     },
+    "Simasoft.LojaWebModerna.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Simasoft.LojaWebModerna.Dominio/Simasoft.LojaWebModerna.Dominio.csproj",
+      "msbuildProject": "../Simasoft.LojaWebModerna.Dominio/Simasoft.LojaWebModerna.Dominio.csproj"
+    },
     "Simasoft.LojaWebModerna.KernelCompartilhado/1.0.0": {
       "type": "project",
       "path": "../Simasoft.LojaWebModerna.KernelCompartilhado/Simasoft.LojaWebModerna.KernelCompartilhado.csproj",
@@ -214,6 +232,7 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.0",
+      "Simasoft.LojaWebModerna.Dominio >= 1.0.0",
       "Simasoft.LojaWebModerna.KernelCompartilhado >= 1.0.0"
     ]
   },
@@ -224,11 +243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio\\Simasoft.LojaWebModerna.Dominio.csproj",
-      "projectName": "Simasoft.LojaWebModerna.Dominio",
-      "projectPath": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio\\Simasoft.LojaWebModerna.Dominio.csproj",
+      "projectUniqueName": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Console\\Simasoft.LojaWebModerna.Console.csproj",
+      "projectName": "Simasoft.LojaWebModerna.Console",
+      "projectPath": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Console\\Simasoft.LojaWebModerna.Console.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio\\obj\\",
+      "outputPath": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -247,6 +266,9 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
+            "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio\\Simasoft.LojaWebModerna.Dominio.csproj": {
+              "projectPath": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio\\Simasoft.LojaWebModerna.Dominio.csproj"
+            },
             "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.KernelCompartilhado\\Simasoft.LojaWebModerna.KernelCompartilhado.csproj": {
               "projectPath": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.KernelCompartilhado\\Simasoft.LojaWebModerna.KernelCompartilhado.csproj"
             }

@@ -206,11 +206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.KernelCompartilhado\\Simasoft.LojaWebModerna.KernelCompartilhado.csproj",
+      "projectUniqueName": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.KernelCompartilhado\\Simasoft.LojaWebModerna.KernelCompartilhado.csproj",
       "projectName": "Simasoft.LojaWebModerna.KernelCompartilhado",
-      "projectPath": "e:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.KernelCompartilhado\\Simasoft.LojaWebModerna.KernelCompartilhado.csproj",
+      "projectPath": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.KernelCompartilhado\\Simasoft.LojaWebModerna.KernelCompartilhado.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "e:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.KernelCompartilhado\\obj\\",
+      "outputPath": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.KernelCompartilhado\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

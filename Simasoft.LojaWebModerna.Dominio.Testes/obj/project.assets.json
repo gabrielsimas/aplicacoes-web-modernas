@@ -5625,7 +5625,7 @@
       ]
     },
     "System.Xml.XPath.XmlDocument/4.0.1": {
-      "sha512": "Zm2BdeanuncYs3NhCj4c9e1x3EXFzFBVv2wPEc/Dj4ZbI9R8ecLSR5frAsx4zJCPBtKQreQ7Q/KxJEohJZbfzA==",
+      "sha512": "6JODWrViZYZWbf4QKKlKWd2YLDO66zs+x9uGdhcw3Ei2SRw/BlKEAcSvN5uI/Ibd4BoybFoaXkQt9Rrg7kbNKw==",
       "type": "package",
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "files": [
@@ -5688,11 +5688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio.Testes\\Simasoft.LojaWebModerna.Dominio.Testes.csproj",
+      "projectUniqueName": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio.Testes\\Simasoft.LojaWebModerna.Dominio.Testes.csproj",
       "projectName": "Simasoft.LojaWebModerna.Dominio.Testes",
-      "projectPath": "e:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio.Testes\\Simasoft.LojaWebModerna.Dominio.Testes.csproj",
+      "projectPath": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio.Testes\\Simasoft.LojaWebModerna.Dominio.Testes.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "e:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio.Testes\\obj\\",
+      "outputPath": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio.Testes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5711,11 +5711,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "e:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio\\Simasoft.LojaWebModerna.Dominio.csproj": {
-              "projectPath": "e:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio\\Simasoft.LojaWebModerna.Dominio.csproj"
+            "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio\\Simasoft.LojaWebModerna.Dominio.csproj": {
+              "projectPath": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.Dominio\\Simasoft.LojaWebModerna.Dominio.csproj"
             },
-            "e:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.KernelCompartilhado\\Simasoft.LojaWebModerna.KernelCompartilhado.csproj": {
-              "projectPath": "e:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.KernelCompartilhado\\Simasoft.LojaWebModerna.KernelCompartilhado.csproj"
+            "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.KernelCompartilhado\\Simasoft.LojaWebModerna.KernelCompartilhado.csproj": {
+              "projectPath": "E:\\Cursos\\balta.io\\1969-AplicacoesWebModernas\\Fonte\\Simasoft.LojaWebModerna.KernelCompartilhado\\Simasoft.LojaWebModerna.KernelCompartilhado.csproj"
             }
           }
         }
