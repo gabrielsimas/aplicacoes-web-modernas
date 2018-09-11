@@ -1,0 +1,12 @@
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Console\bin\Debug\netstandard2.0\Simasoft.LojaWebModerna.Console.deps.json
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Console\bin\Debug\netstandard2.0\Simasoft.LojaWebModerna.Console.dll
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Console\bin\Debug\netstandard2.0\Simasoft.LojaWebModerna.Console.pdb
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Console\bin\Debug\netstandard2.0\Simasoft.LojaWebModerna.Dominio.dll
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Console\bin\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.dll
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Console\bin\Debug\netstandard2.0\Simasoft.LojaWebModerna.Dominio.pdb
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Console\bin\Debug\netstandard2.0\Simasoft.LojaWebModerna.KernelCompartilhado.pdb
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Console\obj\Debug\netstandard2.0\Simasoft.LojaWebModerna.Console.csproj.CoreCompileInputs.cache
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Console\obj\Debug\netstandard2.0\Simasoft.LojaWebModerna.Console.AssemblyInfoInputs.cache
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Console\obj\Debug\netstandard2.0\Simasoft.LojaWebModerna.Console.AssemblyInfo.cs
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Console\obj\Debug\netstandard2.0\Simasoft.LojaWebModerna.Console.dll
+E:\Cursos\balta.io\1969-AplicacoesWebModernas\Fonte\Simasoft.LojaWebModerna.Console\obj\Debug\netstandard2.0\Simasoft.LojaWebModerna.Console.pdb
