@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using Simasoft.LojaWebModerna.KernelCompartilhado.Comandos;
 
-namespace Simasoft.LojaWebModerna.Dominio.Comandos
+namespace Simasoft.LojaWebModerna.Dominio.Comandos.Entradas
 {
     public class ComandoRegistrarPedido: IComando
     {

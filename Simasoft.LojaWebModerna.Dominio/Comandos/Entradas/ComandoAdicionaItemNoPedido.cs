@@ -1,7 +1,7 @@
 using System;
 using Simasoft.LojaWebModerna.KernelCompartilhado.Comandos;
 
-namespace Simasoft.LojaWebModerna.Dominio.Comandos
+namespace Simasoft.LojaWebModerna.Dominio.Comandos.Entradas
 {
     public class ComandoAdicionaItemNoPedido: IComando
     {
