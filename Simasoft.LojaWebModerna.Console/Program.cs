@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using Simasoft.LojaWebModerna.Dominio.Comandos;
+using Simasoft.LojaWebModerna.Dominio.Comandos.Entradas;
+using Simasoft.LojaWebModerna.Dominio.Comandos.Manipuladores;
 using Simasoft.LojaWebModerna.Dominio.Entidades;
-using Simasoft.LojaWebModerna.Dominio.ManipuladoresDeComandos;
 using Simasoft.LojaWebModerna.Dominio.ObjetosDeValor;
 using Simasoft.LojaWebModerna.Dominio.Repositorios;
 
@@ -69,10 +70,25 @@ namespace Simasoft.LojaWebModerna.Console
     }
 
     class RepositorioFalsoCliente : IRepositorioCliente
-    {                
+    {
+        public void Atualizar(Cliente cliente)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool DocumentoExiste(string documento)
+        {
+            throw new NotImplementedException();
+        }
+
         public Cliente ListaPor(Guid id)
         {
             return null;
+        }
+
+        public Cliente ListaPor(string documento)
+        {
+            throw new NotImplementedException();
         }
 
         public Cliente ListaPorIdUsuario(Guid idUsuario)
@@ -82,14 +98,19 @@ namespace Simasoft.LojaWebModerna.Console
                 DateTime.Now,
                 new Email("andrebaltieri@hotmail.com"),
                 new Documento("72546524135"),
-                new Usuario("andrebaltieri", "andrebaltieri")
+                new Usuario("andrebaltieri","","")
             );
+        }
+
+        public void Salvar(Cliente cliente)
+        {
+            throw new NotImplementedException();
         }
 
         /* public void Update(Customer customer)
         {
             
-        } */        
+        } */
     }
 
     class RepositorioFalsoPedido : IRepositorioPedido

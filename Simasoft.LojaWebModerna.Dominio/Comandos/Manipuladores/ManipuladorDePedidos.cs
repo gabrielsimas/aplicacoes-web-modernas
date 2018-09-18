@@ -1,10 +1,11 @@
 using Flunt.Notifications;
-using Simasoft.LojaWebModerna.Dominio.Comandos;
+using Simasoft.LojaWebModerna.Dominio.Comandos.Entradas;
 using Simasoft.LojaWebModerna.Dominio.Entidades;
 using Simasoft.LojaWebModerna.Dominio.Repositorios;
+using Simasoft.LojaWebModerna.Dominio.ResultadosComandos;
 using Simasoft.LojaWebModerna.KernelCompartilhado.Comandos;
 
-namespace Simasoft.LojaWebModerna.Dominio.ManipuladoresDeComandos
+namespace Simasoft.LojaWebModerna.Dominio.Comandos.Manipuladores
 {
     public class ManipuladorDePedidos : Notifiable,
         IManipuladorDeComandos<ComandoRegistrarPedido>
@@ -19,8 +20,8 @@ namespace Simasoft.LojaWebModerna.Dominio.ManipuladoresDeComandos
             _repositorioProduto = repositorioProduto;
             _repositorioPedido = repositorioPedido;
         }
-
-        public void Manipula(ComandoRegistrarPedido comando)
+        
+        public IResultadoComando Manipula(ComandoRegistrarPedido comando)
         {
             var cliente = _repositorioCliente.ListaPor(comando.Cliente);
             var pedido = new Pedido(cliente,comando.TaxaDeEntrega,comando.Desconto);
@@ -36,6 +37,8 @@ namespace Simasoft.LojaWebModerna.Dominio.ManipuladoresDeComandos
 
             if(pedido.Valid)
                 _repositorioPedido.Salvar(pedido);
+            
+            return new ResultadoComandoRegistrarPedido(pedido.Numero);
 
         }
     }

@@ -6,10 +6,13 @@ namespace Simasoft.LojaWebModerna.Dominio.Entidades
     public class Usuario: Entidade
     {
         #region Construtores
-        public Usuario(string nomeDeUsuario, string senha)
-        {            
+        public Usuario(string nomeDeUsuario, string senha, string confirmarSenha)
+        {               
             NomeDeUsuario = nomeDeUsuario;
-            Senha = senha;            
+            Senha = senha; //TODO: Utilizar o método de criptografia         
+            Ativo = true;
+
+            //TODO: Adicionar validação das senhas via Domain Validation            
         }
         #endregion
 
@@ -24,6 +27,8 @@ namespace Simasoft.LojaWebModerna.Dominio.Entidades
         #region Métodos
         public void Ativar() => Ativo = true;
         public void Desativar() => Ativo = false;
+
+        //TODO: Criar método para criptografia de senhas
 
         #endregion 
         
