@@ -1,10 +1,10 @@
 using System;
 using Flunt.Notifications;
+using Simasoft.LojaWebModerna.Dominio.Coandos.Resultados;
 using Simasoft.LojaWebModerna.Dominio.Comandos.Entradas;
 using Simasoft.LojaWebModerna.Dominio.Entidades;
 using Simasoft.LojaWebModerna.Dominio.ObjetosDeValor;
 using Simasoft.LojaWebModerna.Dominio.Repositorios;
-using Simasoft.LojaWebModerna.Dominio.ResultadosComandos;
 using Simasoft.LojaWebModerna.Dominio.Servicos;
 using Simasoft.LojaWebModerna.KernelCompartilhado.Comandos;
 
@@ -51,7 +51,6 @@ namespace Simasoft.LojaWebModerna.Dominio.Comandos.Manipuladores
                 Nome = cliente.Nome.ToString()
             };
 
-        }
-        
+        }        
     }
 }

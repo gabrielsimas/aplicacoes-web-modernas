@@ -7,5 +7,10 @@ namespace Simasoft.LojaWebModerna.Dominio.Coandos.Resultados
     {
         public Guid Id { get; set; }
         public string Nome { get; set; }
+
+        public void oferenda()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

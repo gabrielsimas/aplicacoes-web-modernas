@@ -12,5 +12,10 @@ namespace Simasoft.LojaWebModerna.Dominio.Comandos.Resultados
         public ResultadoComandoRegistrarPedido()
         { }
         public string Number { get; set; }
+
+        public void oferenda()
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
